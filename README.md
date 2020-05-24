@@ -1,4 +1,4 @@
-# snakejs
+# Snake JS
 
 Recriando o jogo da cobrinha com JavaScript.
 
